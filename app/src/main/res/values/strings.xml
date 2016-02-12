@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="action_settings">Settings</string>
+    <string name="ingresesupe">Ingrese el nombre del Superhéroe</string>
+    <string name="botton">Buscar</string>
+
+</resources>
